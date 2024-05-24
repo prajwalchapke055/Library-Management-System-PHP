@@ -58,7 +58,7 @@ Library Management System is a web-based application designed to manage library 
 ### USER - Login Form 
 ![Screenshot (1144)](https://github.com/prajwalchapke055/Library-Management-System-PHP/assets/122814333/a79a081b-1664-4b39-9dfa-b48fb2dda49d)
 
-### USER - Verify 
+### USER - Verify Email by OTP
 ![Screenshot (1145)](https://github.com/prajwalchapke055/Library-Management-System-PHP/assets/122814333/cc337e8f-01b8-41ab-aa08-9b999ab02e9d)
 
 
